@@ -113,6 +113,9 @@ Run the application:
 streamlit run app.py
 ```
 
+## Live Demo
+
+[Click Here to Open App](https://smartdietrecommendation-ml.streamlit.app/)
 ---
 
 # 🌐 Deployment
